@@ -1,0 +1,15 @@
+.modal-container{
+	height:50%;
+	width:50%;
+	display:block;
+	margin:auto;
+	background:url('cover.png');
+	z-index:1;
+}
+.hidden{
+	display:none;
+}
+img{
+	height:100%;
+	width:100%;
+}
